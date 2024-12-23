@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "198736851903",
+    "firebase_url": "https://preschool-academy.firebaseio.com",
+    "project_id": "preschool-academy",
+    "storage_bucket": "preschool-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:b19f4ab6043fae434ce70a",
+        "android_client_info": {
+          "package_name": "com.animalgames.animalsforkids.toddlergames.mypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:184b2aa95914cb4f4ce70a",
+        "android_client_info": {
+          "package_name": "com.babygames.preschool.learning.toddlergames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:4ce63295e2f123f14ce70a",
+        "android_client_info": {
+          "package_name": "com.babyphone.toddlergames.freebabygames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:1d9f8af47ae969774ce70a",
+        "android_client_info": {
+          "package_name": "com.kids.puzzle.toddlergames.babylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:276c1fb2aa94f0fd4ce70a",
+        "android_client_info": {
+          "package_name": "com.kidsfarm.games.toddlerfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:9a3ee286bb6a21474ce70a",
+        "android_client_info": {
+          "package_name": "com.preschool.toddler.games.babygames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:6ea91657ec74350d4ce70a",
+        "android_client_info": {
+          "package_name": "com.preschool.toddler.learning.games.bunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198736851903:android:6a7cfab387ef68b34ce70a",
+        "android_client_info": {
+          "package_name": "com.toddler.games.preschool.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbk9am2_dVoFsxxiFYI9oPgvS5Xmhqsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198736851903-gvnp85l22e0oa473j3ut179rcak8d07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
